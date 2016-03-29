@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\LSG\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\gson-2.3.1_a9d5629ec0f8cc858229543df3272d534224aa8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_fc26463a71155f4bee05981aeec364989b5a5b54.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-7.0.0_e8fcbbcf7bb5dd431a880bac03544f1e6ae7990b.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-7.0.0_f8119f71e848a2d62aaa59d4f55ab522eb1a68d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-7.0.0_b87ad5872e37baca28750d2ac8be266e0d3d4e3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-7.0.0_2c6fd3edabd7687ccd077a4be988a4c77fc38ab2.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\.gradle\caches\modules-2\files-2.1\us.monoid.web\resty\0.3.2\1c83ff064daf6ecf736cff3b0012ffbacabefd7c\resty-0.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c83ff064daf6ecf736cff3b0012ffbacabefd7c">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\resty-0.3.2_7188fbdcbbc7ee7cb69e13c2bba1e37498bad18b.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_e5225097ad2fafa1de893c90e4456156d6b8577b.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-7.0.0_464ab7a6d383c249964e13ae955e0f8efd8c091a.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-7.0.0_70c31a569431b393b95d1e87367ac0bd243c773c.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-7.0.0_285cc3c986cdaa42e932304ac825119fbc9cf005.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-7.0.0_ec67ed68522c1d736110125516f772010f4248f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_f89bbb14d63370c3e9057eca9beb62d9b954eff9.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_0469888681f83d073c1ef60daefa364a0c97b557.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\.gradle\caches\modules-2\files-2.1\net.java.dev.javacc\javacc\4.1\915805643a5651cfe0e2db40c689c6dc211db97d\javacc-4.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="915805643a5651cfe0e2db40c689c6dc211db97d">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\javacc-4.1_db0cc40c254ae98676b382bb67a41277b3ac5fc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-7.0.0_e4eb25640bf22f71764a874acdeab229ad7a2173.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-7.0.0_4bc23f1e22407e5ffd7be19f6f35fd98a9682f2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-7.0.0_3ab4c2b5423930e914bedc7bff5c3c48c4ac48c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-7.0.0_5d5720777dfbadd8cb2f92da768fa020e96accb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-7.0.0_401ef9d1f16abf7dab5a26aaf51b85503a88cc9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_8a7c2cebac925b11bb29a4c5fc5c28ae735f71ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-7.0.0_cb001acad4b80a8c91207b2a946e8359fe034506.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_72a28aa5f717bb106a30664085741eb6922122f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-7.0.0_d173fea04f9b93305d20d6245502d6db3617ab3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appstate-7.0.0_dfe558829ccd3917a1275f9912debf993204b02f.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-7.0.0_0a989f4ca6c1abd029e6e995a32135037c1eba0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-7.0.0_993a1828c6affc780920f20c69cc80e5caf0734d.jar" />
+    </item>
+    <item
+        jar="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\LSG\Downloads\Navfriend2.0\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-7.0.0_92aad3d8129def040be0a67b03dfe1b1ad4b53df.jar" />
+    </item>
+
+</items>

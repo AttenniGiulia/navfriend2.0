@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navfriend</string>
+
+    <string name="hello_world">NavFriend!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_travel">Create Travel</string>
+    <string name="title_activity_friend_selector">FriendSelector</string>
+    <string name="title_activity_start_stop_travel">StartStopTravel</string>
+    <string name="title_activity_start_maps">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_test">TestAct</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="title_activity_map_navfriend">Map</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>

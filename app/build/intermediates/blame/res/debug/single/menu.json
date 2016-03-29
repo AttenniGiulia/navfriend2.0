@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\LSG\\Downloads\\Navfriend2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_test.xml",
+        "source": "C:\\Users\\LSG\\Downloads\\Navfriend2.0\\app\\src\\main\\res\\menu\\menu_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\LSG\\Downloads\\Navfriend2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_create_travel.xml",
+        "source": "C:\\Users\\LSG\\Downloads\\Navfriend2.0\\app\\src\\main\\res\\menu\\menu_create_travel.xml"
+    },
+    {
+        "merged": "C:\\Users\\LSG\\Downloads\\Navfriend2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_friend_selector.xml",
+        "source": "C:\\Users\\LSG\\Downloads\\Navfriend2.0\\app\\src\\main\\res\\menu\\menu_friend_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\LSG\\Downloads\\Navfriend2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_map_navfriend.xml",
+        "source": "C:\\Users\\LSG\\Downloads\\Navfriend2.0\\app\\src\\main\\res\\menu\\menu_map_navfriend.xml"
+    },
+    {
+        "merged": "C:\\Users\\LSG\\Downloads\\Navfriend2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\LSG\\Downloads\\Navfriend2.0\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LSG\\Downloads\\Navfriend2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_menu.xml",
+        "source": "C:\\Users\\LSG\\Downloads\\Navfriend2.0\\app\\src\\main\\res\\menu\\menu_menu.xml"
+    }
+]
